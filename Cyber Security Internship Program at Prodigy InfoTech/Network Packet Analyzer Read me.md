@@ -18,8 +18,6 @@ Installation
 
 1. Clone the repository:
 
-   bash
-   git clone https://github.com/Badalkathayat/Network-Packet-Analyzer.git
    cd Network-Packet-Analyzer
    
 
