@@ -12,8 +12,6 @@ Features
 Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/BadalKathayat/password-complexity-checker.git
    cd password-complexity-checker
 
 2. Ensure you have Python installed. This script is compatible with Python 3.x.
